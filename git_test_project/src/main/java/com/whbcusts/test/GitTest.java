@@ -19,5 +19,7 @@ public class GitTest {
         System.out.println("新垣结衣");
 
         System.out.println("hello duplicate");
+
+        System.out.println("dadadaada");
     }
 }
