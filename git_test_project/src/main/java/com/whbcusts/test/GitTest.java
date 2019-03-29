@@ -10,5 +10,10 @@ public class GitTest {
         System.out.println("石原里美");
         System.out.println("石原里美");
         System.out.println("石原里美");
+
+        System.out.println("斋藤飞鸟");
+        System.out.println("斋藤飞鸟");
+        System.out.println("斋藤飞鸟");
+        System.out.println("斋藤飞鸟");
     }
 }
